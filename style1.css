@@ -1,0 +1,13 @@
+.mus {
+    background: url(images/kinh-nghiem-du-lich-cua-lo-11.webp);
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height: 80vh;
+}
+.card-img-custom { 
+height: 200px;          
+width: 100%;            
+object-fit: cover;    
+object-position: center; 
+} 
